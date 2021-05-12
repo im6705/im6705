@@ -1,4 +1,7 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Luna&fontSize=90)
+- 🌱 I’m currently learning 
+-- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+-- <img src="https://img.shields.io/badge/logo-test-blue?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
 
 <!--
 **im6705/im6705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
