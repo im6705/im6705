@@ -169,7 +169,7 @@ def generate_svg():
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="470" height="66" rx="18" class="bubble"/>
     <text x="15" y="27">I'm a developer who loves building things.</text>
-    <text x="15" y="50">Currently exploring DCS/Arma modding with C#.</text>
+    <text x="15" y="50">Currently working with C#, Rust &amp; Claude Code.</text>
   </g>
 
   <!-- typing 4 -->
