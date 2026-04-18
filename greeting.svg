@@ -45,7 +45,7 @@
   <!-- msg 1: greeting -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="220" height="42" rx="18"/>
-    <text x="15" y="27">Good morning! I'm Jamse <tspan class="emoji">👋</tspan></text>
+    <text x="15" y="27">Good afternoon! I'm Jamse <tspan class="emoji">👋</tspan></text>
   </g>
 
   <!-- typing 2 -->
@@ -62,7 +62,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="440" height="66" rx="18" class="bubble"/>
     <text x="15" y="27">I'm from Sejong, Korea, where it's currently</text>
-    <text x="15" y="50">49°F (9.2°C) and <tspan class="emoji">☀️</tspan> Clear today.</text>
+    <text x="15" y="50">75°F (23.9°C) and <tspan class="emoji">🌤️</tspan> Mostly Clear today.</text>
   </g>
 
   <!-- typing 3 -->
