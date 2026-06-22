@@ -62,7 +62,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="440" height="66" rx="18" class="bubble"/>
     <text x="15" y="27">I'm from Sejong, Korea, where it's currently</text>
-    <text x="15" y="50">74°F (23.2°C) and <tspan class="emoji">☀️</tspan> Clear today.</text>
+    <text x="15" y="50">69°F (20.7°C) and <tspan class="emoji">☁️</tspan> Cloudy today.</text>
   </g>
 
   <!-- typing 3 -->
